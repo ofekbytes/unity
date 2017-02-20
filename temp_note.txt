@@ -1,0 +1,9 @@
+unity my temp notes
+
+to find object - press object and then the "f" key.
+
+
+
+learn to create ground/floor object using:
+[ ] plan
+[ ] Terrains
